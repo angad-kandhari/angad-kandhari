@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Angad+Kandhari+%F0%9F%91%8B;Product+Manager+%40+Elenium;Builder+of+small+useful+things;Shipping+airports.+Shipping+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Angad+Kandhari+%F0%9F%91%8B;Product+Manager+%40+Elenium;Builder+of+small+useful+things" alt="Typing SVG" />
 </div>
 
 ✈️ **Product Manager @ [Elenium Automation](https://www.elenium.com/)** | 🛠 **Builder of small useful things**

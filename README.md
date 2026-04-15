@@ -4,13 +4,13 @@
 
 > The best product decisions look obvious in hindsight. Getting there is the job.
 
-I work on self-service and automation for airports — the kiosks, bag drops, and biometric flows you (hopefully don't) notice. Outside of work I build local-first tools that remove friction from my own day.
+I work on self-service and automation for airports: the kiosks, bag drops, and biometric flows you (hopefully don't) notice. Outside of work I build local-first tools that remove friction from my own day.
 
 ---
 
 ## Current Projects
 
-- 🧚 **[navi](https://github.com/angad729/navi)** — Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
+- 🧚 **[navi](https://github.com/angad729/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 
 ---
 
@@ -18,7 +18,7 @@ I work on self-service and automation for airports — the kiosks, bag drops, an
 
 Old but shipped:
 
-- 📄 **[dtaToCsv](https://github.com/angad729/dtaToCsv)** — Convert Stata `.dta` files to CSV. Built for a research gig years ago.
+- 📄 **[dtaToCsv](https://github.com/angad729/dtaToCsv)**. Convert Stata `.dta` files to CSV. Built for a research gig years ago.
 
 ---
 
@@ -51,10 +51,10 @@ Old but shipped:
 
 ## 🌱 What I'm Doing
 
-- **Shipping aviation self-service** — making airports feel less like airports
-- **Tinkering with local-first AI** — Whisper, Ollama, small agents that live on my laptop
-- **Prototyping with Claude Code** — PM who codes just enough to get dangerous
-- **Reading** — product writing, systems thinking, anything on how good teams actually decide
+- **Shipping aviation self-service**. Making airports feel less like airports.
+- **Tinkering with local-first AI**. Whisper, Ollama, small agents that live on my laptop.
+- **Prototyping with Claude Code**. PM who codes just enough to get dangerous.
+- **Reading**. Product writing, systems thinking, anything on how good teams actually decide.
 
 ---
 
@@ -68,7 +68,7 @@ Old but shipped:
 
 ## 💡 Random Facts
 
-- PM who writes code on weekends — and code that writes notes on weekdays
+- PM who writes code on weekends, and code that writes notes on weekdays
 - Obsidian vault is bigger than some of the repos on this profile
 - Will happily argue that the kiosk is the most underrated piece of UX in a traveller's day
 - Coffee is non-negotiable; Melbourne made sure of that

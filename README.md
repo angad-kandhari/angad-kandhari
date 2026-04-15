@@ -44,6 +44,8 @@ Old but shipped:
 <p>
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
 </p>
 
 **AI & Local Tools**

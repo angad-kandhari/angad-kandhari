@@ -1,6 +1,6 @@
 # Angad Kandhari 👋
 
-✈️ **Product Manager @ [Elenium Automation](https://www.eleniumautomation.com/)** | 🛠 **Builder of small useful things**
+✈️ **Product Manager @ [Elenium Automation](https://www.elenium.com/)** | 🛠 **Builder of small useful things**
 
 > The best product decisions look obvious in hindsight. Getting there is the job.
 

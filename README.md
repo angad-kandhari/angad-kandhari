@@ -15,6 +15,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 - 🥁 **[drumroll](https://usedrumroll.com/)**. Public changelogs without the busywork. Pulls releases from Jira fix versions, Bitbucket tags, or Markdown in your repo, then publishes at `{slug}.usedrumroll.com` or embeds anywhere with a 5 KB script tag.
 - 🧭 **[deliberate](https://www.deliberate.work/)**. Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
 - 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
+- 🛒 **[hagglers](https://hagglers.org/)**. Australia's grocery price watchdog. Tracks daily prices across Coles, Woolworths, and Aldi, flags fake discounts against 6 months of history, and builds a basket to find the cheapest shop. No account, ~10,000 products.
 
 ---
 

@@ -17,6 +17,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 - 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 - 🛒 **[hagglers](https://hagglers.org/)**. Australia's grocery price watchdog. Tracks daily prices across Coles, Woolworths, and Aldi, flags fake discounts against 6 months of history, and builds a basket to find the cheapest shop. No account, ~10,000 products.
 - 🧊 **Cooldown** (in progress). A calm, private companion that helps young Australians get unhooked from sports betting. Catches the urge in the moment, shows the money you're keeping, and warm-hands you to Gambler's Help. The anti-betting-app: low-arousal, anonymous-first, free for everyone.
+- 📸 **[shot by everyone](https://shotbyeveryone.com/)**. One shared film roll for your wedding or party. Guests scan a QR sign, type their name, and upload photos and videos at full quality. No app, no accounts. Everyone browses one live private gallery, and the host downloads the lot. The digital descendant of disposable cameras on wedding tables.
 
 ---
 

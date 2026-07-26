@@ -19,9 +19,9 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 
 ## Published Projects
 
+- 🗣️ **[yapping](https://get-yapping.com)**. Private, on-device dictation for macOS. Hold the globe key, yap, release: clean text at your cursor in any app. Apple SpeechAnalyzer plus local LLM cleanup, hands-free mode, voice editing, per-app styles. Free forever, Apache 2.0, zero cloud.
 - 🥁 **[drumroll](https://usedrumroll.com/)**. Public changelogs without the busywork. Pulls releases from Jira fix versions, Bitbucket tags, or Markdown in your repo, then publishes at `{slug}.usedrumroll.com` or embeds anywhere with a 5 KB script tag.
 - 🧭 **[deliberate](https://www.deliberate.work/)**. Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
-- 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 - 🛒 **[hagglers](https://hagglers.org/)**. Australia's grocery price watchdog. Tracks daily prices across Coles, Woolworths, and Aldi, flags fake discounts against 6 months of history, and builds a basket to find the cheapest shop. No account, ~10,000 products.
 
 ---
@@ -30,6 +30,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 
 Old but shipped:
 
+- 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey speech-to-text notes into Obsidian with local Whisper. Superseded by yapping.
 - 📄 **[dtaToCsv](https://github.com/angad-kandhari/dtaToCsv)**. Convert Stata `.dta` files to CSV. Built for a research gig years ago.
 
 ---
@@ -47,6 +48,7 @@ Old but shipped:
   <img src="https://img.shields.io/badge/-C%23%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust%20(learning)-DEA584?style=flat-square&logo=rust&logoColor=black" />
 </p>
 
